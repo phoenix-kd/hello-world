@@ -1,2 +1,2 @@
 # hello-world
-first self started repository
+first self made repository
